@@ -2,6 +2,9 @@
 
 Esto es un form realizado con efectos CSS 
 
+![Captura](https://user-images.githubusercontent.com/32551746/124294080-9a29cb00-db57-11eb-915e-da6177774d51.JPG)
+
+
 <div align="center">Donde me puedes encontrar:</div>
 
 :earth_africa: Portafolios **[Portafolios](https://jairosanchezb94.github.io/Portafolio-2/)**
